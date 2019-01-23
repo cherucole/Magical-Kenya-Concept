@@ -24,20 +24,31 @@ body {
     transform: translateY(-50%);
 }
 
-#customnavbar {
-    background-color: blue;
+.logo {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    padding-left: 6rem;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#navrow {
+    background-color: aqua;
     height: 5rem;
-    width: 100%;
+
 }
 
-#menu {
-    padding-top: 20px;
-    padding-left: 1rem;
+#col1 {
+    background-color: red;
+
 }
 
-/* #searchback {
-    background-color: blue;
-    height: 3.5rem;
-    width: 2rem;
-    margin-top: 0;
-} */
+#sidebar {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    padding-left: 2rem;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
