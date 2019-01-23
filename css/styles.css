@@ -43,11 +43,14 @@ body {
 }
 
 #navrow {
-    background-color: aqua;
+    /* background-color: aqua; */
     height: 5rem;
+    border: 1px solid rgb(94, 97, 94);
+
 
 }
 
+/* 
 #col1 {
     background-color: red;
 
@@ -63,7 +66,7 @@ body {
 
 #col4 {
     background-color: maroon;
-}
+} */
 
 #col5 {
     background-color: #DFDFDF;
@@ -92,7 +95,7 @@ body {
     margin: 0;
     position: absolute;
     top: 50%;
-    padding-left: 1rem;
+    padding-left: 1.5rem;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
