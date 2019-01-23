@@ -44,11 +44,24 @@ body {
 
 }
 
+#col2 {
+    background-color: blueviolet;
+}
+
 #sidebar {
     margin: 0;
     position: absolute;
     top: 50%;
     padding-left: 2rem;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#magiclogo {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    /* padding-left: 1rem; */
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
