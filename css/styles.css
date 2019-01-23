@@ -24,6 +24,15 @@ body {
     transform: translateY(-50%);
 }
 
+/* #searchicon {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    padding-left: 1rem;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+} */
+
 .logo {
     margin: 0;
     position: absolute;
@@ -48,6 +57,19 @@ body {
     background-color: blueviolet;
 }
 
+#col3 {
+    background-color: yellow;
+}
+
+#col4 {
+    background-color: maroon;
+}
+
+#col5 {
+    background-color: #DFDFDF;
+}
+
+
 #sidebar {
     margin: 0;
     position: absolute;
@@ -62,6 +84,15 @@ body {
     position: absolute;
     top: 50%;
     /* padding-left: 1rem; */
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#searchlogo {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    padding-left: 1rem;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
