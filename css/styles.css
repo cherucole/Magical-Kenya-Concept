@@ -3,7 +3,15 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.row2 {
+    height: 39.5rem;
+    background-color: red;
+}
 
+#bigrow {
+    background-color: white;
+    height: 100%;
+}
 
 #logo {
     padding-left: 3rem;
