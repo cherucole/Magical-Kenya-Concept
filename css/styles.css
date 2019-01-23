@@ -1,0 +1,17 @@
+/* quickest way to check if file linked correctly */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#logo {
+    padding-left: 3rem;
+    /* height: 83px;
+    width: 137px; */
+}
+
+#searchback {
+    background-color: blue;
+    height: 3.5rem;
+    width: 2rem;
+    margin-top: 0;
+}
