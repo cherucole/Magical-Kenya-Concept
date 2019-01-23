@@ -9,9 +9,35 @@ body {
     width: 137px; */
 }
 
-#searchback {
+.customnav {
+    height: 5rem;
+    position: relative;
+    background-color: green;
+}
+
+.menubar {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    padding-left: 2rem;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#customnavbar {
+    background-color: blue;
+    height: 5rem;
+    width: 100%;
+}
+
+#menu {
+    padding-top: 20px;
+    padding-left: 1rem;
+}
+
+/* #searchback {
     background-color: blue;
     height: 3.5rem;
     width: 2rem;
     margin-top: 0;
-}
+} */
