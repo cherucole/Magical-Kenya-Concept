@@ -1,0 +1,33 @@
+nav {
+    height: 4rem !important;
+    background-color: blueviolet !important;
+    padding: 0 !important;
+    color: red !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* .sample {
+    color: green !important;
+    background-color: red;
+    font-size: 16px;
+    padding: 20px 32px;
+} */
+
+#sample {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    height: 64px;
+    width: 100px;
+}
+
+#navlinks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 64px;
+}
