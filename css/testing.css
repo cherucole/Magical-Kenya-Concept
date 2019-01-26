@@ -64,3 +64,17 @@ nav {
     padding-top: 1rem;
 
 }
+
+#readmore {
+    font-family: 'Heebo', sans-serif;
+    padding-left: 4rem !important;
+    padding-top: 1rem !important;
+    border-style: solid;
+    border-width: 2px;
+}
+
+button {
+    margin-top: 1rem !important;
+    margin-left: 4rem !important;
+
+}
