@@ -1,5 +1,5 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+    color: white;
 }
 
 
@@ -40,5 +40,27 @@ nav {
     background-position: center;
     height: 45rem;
     width: 95%;
+}
+
+#kenya {
+    font-size: 8rem;
+    color: white;
+    padding-left: 3.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#maasai {
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+    padding-left: 4rem;
+    padding-top: 0.5rem;
+
+
+}
+
+#explanation {
+    font-family: 'Heebo', sans-serif;
+    padding-left: 4rem;
+    padding-top: 1rem;
 
 }
